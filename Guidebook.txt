@@ -1,0 +1,17 @@
+Guia de estudio:
+
+dotNET:
+	. Clean Architecture: https://www.youtube.com/watch?v=rjefnUC9Z90
+	. Clean Architecture v2 Advanced: https://www.linkedin.com/learning/dot-net-domain-driven-design-practico/creacion-de-los-proyectos-para-el-modelo-de-dominio-de-management?autoSkip=true&resume=false
+	. Microservicio E-Commerce: https://www.youtube.com/watch?v=L2L_qe-FnUY
+	
+DevOps:
+	. https://www.youtube.com/watch?v=wfLS5kEcDrM&t=148s
+
+Angular:	
+	. https://www.youtube.com/watch?v=R1QePsia5xk
+	
+Node:
+	. Authenticación & Clean Architecture: https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture/instalaciones-para-seguir-el-curso?autoSkip=true&resume=false
+	
+	

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\xhor\\Franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\Wpm.Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B765747-3DB4-4891-92B3-58CA9FCFF4C5}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|c:\\users\\franco\\desktop\\xhor\\franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\wpm.management\\wpm.management.domain\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B765747-3DB4-4891-92B3-58CA9FCFF4C5}|Wpm.Management.Domain\\Wpm.Management.Domain.csproj|solutionrelative:wpm.management.domain\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4992F05F-5522-4AE6-99D5-23BB314EFFBF}|Wpm.Management.Api\\Wpm.Management.Api.csproj|c:\\users\\franco\\desktop\\xhor\\franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\wpm.management\\wpm.management.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4992F05F-5522-4AE6-99D5-23BB314EFFBF}|Wpm.Management.Api\\Wpm.Management.Api.csproj|solutionrelative:wpm.management.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\xhor\\Franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\Wpm.Management\\Wpm.Management.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\xhor\\Franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\Wpm.Management\\Wpm.Management.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Wpm.Management.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:06:48.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\xhor\\Franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\Wpm.Management\\Wpm.Management.Domain\\Entities\\Pet.cs",
+              "RelativeDocumentMoniker": "Wpm.Management.Domain\\Entities\\Pet.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\xhor\\Franki 2096\\work\\dev\\courses\\dotnet\\clean_architecture\\src\\Wpm.Management\\Wpm.Management.Domain\\Entities\\Pet.cs",
+              "RelativeToolTip": "Wpm.Management.Domain\\Entities\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:14:48.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

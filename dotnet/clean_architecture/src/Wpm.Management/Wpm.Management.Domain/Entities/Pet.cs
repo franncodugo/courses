@@ -1,7 +1,8 @@
 ﻿
 namespace Wpm.Management.Domain.Entities;
 
-public class Pet
+public class Pet : Entity
 {
-    public Guid Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public int Age { get; set; }
 }

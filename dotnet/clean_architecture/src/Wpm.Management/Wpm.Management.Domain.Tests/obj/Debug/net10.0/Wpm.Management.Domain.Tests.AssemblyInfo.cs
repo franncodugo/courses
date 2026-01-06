@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wpm.Management.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dea559bdf59a7bcdd6726067491160a1feaee4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2136901af7dc2fb8a85a628b8e466a14780cfbf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wpm.Management.Domain.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wpm.Management.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
